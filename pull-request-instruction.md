@@ -4,7 +4,7 @@
 
 Fork the project repository to your github account:
 
-![fork](/assets/images/UCLAdeepvision/fork.png)
+![fork](/assets/images/demo/fork.png)
 
 ### Step 2
 
@@ -23,16 +23,16 @@ git push origin main
 
 Once you are ready to submit, click "New pull request" under your **forked** repository (read block in image).
 
-![pull1](/assets/images/UCLAdeepvision/pull_request.png)
+![pull1](/assets/images/demo/pull_request.png)
 
 This will lead you to this page:
 
-![pull2](/assets/images/UCLAdeepvision/make_request.png)
+![pull2](/assets/images/demo/make_request.png)
 
 When you see "Able to merge", click "Create pull request" on the right. If your status is not "Able to merge", please double check you only modified .md file and your image folder.
 
 Enter the pull request title with format "teamid-weekN" where N is the week number of this quarter (team01-week4 for example), and add a description if you want.
-![pull2](/assets/images/UCLAdeepvision/comment_pull_request.png)
+![pull2](/assets/images/demo/comment_pull_request.png)
 
 **Please check and make sure you do not have any conflict after the pull request. Please fix the conflict on your end and fail to fix it after deadline may lead to late penalty.**
 
