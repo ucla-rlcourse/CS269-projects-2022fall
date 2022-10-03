@@ -19,7 +19,7 @@ Your article starts here. You can refer to the [source code](https://github.com/
 
 ## Basic Syntax
 ### Image
-Please create a folder with the name of your team id under /assets/images/, put all your images into the folder and reference the images in your main content.
+Please create a folder with the name of your team id under `/assets/images/`, put all your images into the folder and reference the images in your main content.
 
 You can add an image to your survey like this:
 ![YOLO]({{ '/assets/images/demo/object_detection.png' | relative_url }})
