@@ -1,0 +1,22 @@
+title: UCLA CS269 Human-centered AI -- Projects
+name: "UCLA CS269 Human-centered AI -- Projects"
+author: UCLAdeepvision
+baseurl: "/CS269-projects-2022spring"
+description: Course projects for UCLA CS269s
+profile_url: "http://UCLAdeepvision.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+excerpt_separator: <!--more-->
+plugins:
+  - jekyll-feed
+  - jekyll-archives
+exclude:
+  - Gemfile
+  - Gemfile.lock
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+  toc_levels: 1..3
