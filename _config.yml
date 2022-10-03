@@ -1,0 +1,22 @@
+title: UCLA CS269 Reinforcement Learning -- Projects
+name: "UCLA CS269 Reinforcement Learning -- Projects"
+author: Zhenghao
+baseurl: "/CS269-projects-2022fall"
+description: Course projects for UCLA CS269 Seminar 5 in 2022 Fall
+profile_url: "http://ucal-rlcourse.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+excerpt_separator: <!--more-->
+plugins:
+  - jekyll-feed
+  - jekyll-archives
+exclude:
+  - Gemfile
+  - Gemfile.lock
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+  toc_levels: 1..3
