@@ -15,14 +15,14 @@ date: 2022-10-03
 {:toc}
 
 ## Main Content
-Your article starts here. You can refer to the [source code](https://github.com/lilianweng/lil-log/tree/master/_posts) of [lil's blogs](https://lilianweng.github.io/lil-log/) for article structure ideas or Markdown syntax. We've provided a [sample post](https://ucladeepvision.github.io/CS188-Projects-2022Winter/2017/06/21/an-overview-of-deep-learning.html) from Lilian Weng and you can find the source code [here](https://raw.githubusercontent.com/UCLAdeepvision/CS188-Projects-2022Winter/main/_posts/2017-06-21-an-overview-of-deep-learning.md)
+Your article starts here. You can refer to the [source code](https://github.com/lilianweng/lil-log/tree/master/_posts) of [lil's blogs](https://lilianweng.github.io/lil-log/) for article structure ideas or Markdown syntax. We've provided a [sample post](https://ucla-rlcourse.github.io/CS269-projects-2022fall/2017/06/21/an-overview-of-deep-learning.html) from Lilian Weng and you can find the source code [here](https://github.com/ucla-rlcourse/CS269-projects-2022fall/blob/main/_posts/2017-06-21-an-overview-of-deep-learning.md)
 
 ## Basic Syntax
 ### Image
 Please create a folder with the name of your team id under /assets/images/, put all your images into the folder and reference the images in your main content.
 
 You can add an image to your survey like this:
-![YOLO]({{ '/assets/images/UCLAdeepvision/object_detection.png' | relative_url }})
+![YOLO]({{ '/assets/images/demo/object_detection.png' | relative_url }})
 {: style="width: 400px; max-width: 100%;"}
 *Fig 1. YOLO: An object detection method in computer vision* [1].
 
