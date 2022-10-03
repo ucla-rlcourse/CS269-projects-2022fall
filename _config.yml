@@ -1,9 +1,9 @@
-title: UCLA CS269 Human-centered AI -- Projects
-name: "UCLA CS269 Human-centered AI -- Projects"
-author: UCLAdeepvision
-baseurl: "/CS269-projects-2022spring"
-description: Course projects for UCLA CS269s
-profile_url: "http://UCLAdeepvision.github.io"
+title: UCLA CS269 Reinforcement Learning -- Projects
+name: "UCLA CS269 Reinforcement Learning -- Projects"
+author: Zhenghao
+baseurl: "/CS269-projects-2022fall"
+description: Course projects for UCLA CS269 Seminar 5 in 2022 Fall
+profile_url: "http://ucal-rlcourse.github.io"
 
 # Build settings
 markdown: kramdown

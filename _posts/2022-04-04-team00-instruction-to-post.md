@@ -2,8 +2,8 @@
 layout: post
 comments: true
 title: Post Template
-author: UCLAdeepvision
-date: 2022-04-10
+author: Zhenghao Peng
+date: 2022-10-03
 ---
 
 
@@ -64,7 +64,7 @@ Please make sure to cite properly in your work, for example:
 
 [1] Dwibedi, Debidatta, et al. "Counting out time: Class agnostic video repetition counting in the wild." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.   
 
-[2] 
+[Peng, et al.] Peng, Zhenghao, et al. "Maybe you can also use other format for reference as you wish." Nature. 2022. 
 
 ---
 

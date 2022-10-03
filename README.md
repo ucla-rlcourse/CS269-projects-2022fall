@@ -11,6 +11,7 @@ Project page: https://ucladeepvision.github.io/CS269-projects-2022spring/
 3. Installing Bundler and jekyll with
 ```
 gem install --user-install bundler jekyll
+# Make sure you are in project-2022fall folder.
 bundler install
 bundle add webrick
 ```
@@ -21,6 +22,13 @@ bundle exec jekyll serve
 ```
 You should see an address pop on the terminal (http://127.0.0.1:4000/CS269-projects-2022spring
 / by default), go to this address with your browser.
+
+Resources:
+
+* Install Jekyll on MacOS:  https://jekyllrb.com/docs/installation/macos/
+
+
+
 
 ## Working on the project
 
