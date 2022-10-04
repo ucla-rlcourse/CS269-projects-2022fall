@@ -2,6 +2,11 @@
 
 Project page: https://ucla-rlcourse.github.io/CS269-projects-2022fall/
 
+Sign up your team: https://docs.google.com/spreadsheets/d/14xAMUMvA1FoZiwFnXofpM0UpArc14AglIpnFd_vfBOw/edit?usp=sharing
+
+Potential projects:  https://docs.google.com/spreadsheets/d/17t3KGF5IiDTg9UPWKdpNaSF7jBx4L-4eyrIfeHmTIoU/edit?usp=sharing
+
+
 ## Instruction for running this site locally
 
 1. Follow the first 2 steps in [pull-request-instruction](pull-request-instruction.md)
@@ -29,12 +34,11 @@ Resources:
 
 
 
-
 ## Working on the project
 
 1. Create a folder with your team id under ```./assets/images/your-teamid```, you will use this folder to store all the images in your project.
 
-2. Copy the template at ```./_posts/2022-10-03-team00-instruction-to-post.md``` and rename it with format "year-month-date-yourteamid-projectshortname.md" under ```./_posts/```, for example, **2022-10-03-team00-instruction-to-post.md**
+2. Copy the template at [`./_posts/2022-10-03-team00-instruction-to-post.md`](./_posts/2022-10-03-team00-instruction-to-post.md) and rename it with format "year-month-date-yourteamid-projectshortname.md" under ```./_posts/```, for example, **2022-04-10-team01-object-detection.md**
 
 3. Check out the [sample posts](https://ucla-rlcourse.github.io/CS269-projects-2022fall/) we provide and the [source code](_posts/2022-10-03-team00-instruction-to-post.md) as well as [basic Markdown syntax](https://www.markdownguide.org/basic-syntax/).
 
