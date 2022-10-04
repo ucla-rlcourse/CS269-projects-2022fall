@@ -38,7 +38,8 @@ Resources:
 
 1. Create a folder with your team id under ```./assets/images/your-teamid```, you will use this folder to store all the images in your project.
 
-2. Copy the template at [`./_posts/2022-10-03-team00-instruction-to-post.md`](./_posts/2022-10-03-team00-instruction-to-post.md) and rename it with format "year-month-date-yourteamid-projectshortname.md" under ```./_posts/```, for example, **2022-04-10-team01-object-detection.md**
+2. Copy the template at [`./_posts/2022-10-03-team00-instruction-to-post.md`](./_posts/2022-10-03-team00-instruction-to-post.md) and rename it with format "year-month-date-yourteamid.md" under ```./_posts/```, for example, `2022-10-03-team00.md`. 
+Note that the date in file name does not matter since the post date will be overwritten by the `date` field in front matter of the post.
 
 3. Check out the [sample posts](https://ucla-rlcourse.github.io/CS269-projects-2022fall/) we provide and the [source code](_posts/2022-10-03-team00-instruction-to-post.md) as well as [basic Markdown syntax](https://www.markdownguide.org/basic-syntax/).
 
