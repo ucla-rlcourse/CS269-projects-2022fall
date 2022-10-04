@@ -2,6 +2,11 @@
 
 Project page: https://ucla-rlcourse.github.io/CS269-projects-2022fall/
 
+Sign up your team: https://docs.google.com/spreadsheets/d/14xAMUMvA1FoZiwFnXofpM0UpArc14AglIpnFd_vfBOw/edit?usp=sharing
+
+Potential projects:  https://docs.google.com/spreadsheets/d/17t3KGF5IiDTg9UPWKdpNaSF7jBx4L-4eyrIfeHmTIoU/edit?usp=sharing
+
+
 ## Instruction for running this site locally
 
 1. Follow the first 2 steps in [pull-request-instruction](pull-request-instruction.md)
