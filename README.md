@@ -1,10 +1,12 @@
 # UCLA CS269 2022 Fall Reinforcement Learning Course Project
 
-Project page: https://ucla-rlcourse.github.io/CS269-projects-2022fall/
+Project page:  https://ucla-rlcourse.github.io/CS269-projects-2022fall/
 
-Sign up your team: https://docs.google.com/spreadsheets/d/14xAMUMvA1FoZiwFnXofpM0UpArc14AglIpnFd_vfBOw/edit?usp=sharing
+Sign up your team:  https://docs.google.com/spreadsheets/d/14xAMUMvA1FoZiwFnXofpM0UpArc14AglIpnFd_vfBOw/edit?usp=sharing
 
 Potential projects:  https://docs.google.com/spreadsheets/d/17t3KGF5IiDTg9UPWKdpNaSF7jBx4L-4eyrIfeHmTIoU/edit?usp=sharing
+
+Refer to posts by students in last quarter:  https://ucladeepvision.github.io/CS269-projects-2022spring/
 
 
 ## Instruction for running this site locally
@@ -36,14 +38,16 @@ Resources:
 
 ## Working on the project
 
-1. Create a folder with your team id under ```./assets/images/your-teamid```, you will use this folder to store all the images in your project.
+1. Create a folder with your team id under ```./assets/images/TEAMID```, you will use this folder to store all the images in your project.
 
-2. Copy the template at [`./_posts/2022-10-03-team00-instruction-to-post.md`](./_posts/2022-10-03-team00-instruction-to-post.md) and rename it with format "year-month-date-yourteamid.md" under ```./_posts/```, for example, `2022-10-03-team00.md`. 
-Note that the date in file name does not matter since the post date will be overwritten by the `date` field in front matter of the post.
+2. Copy the template at [`./_posts/2022-09-19-team00.md`](./_posts/2022-09-19-team00.md) and rename it with format `2022-09-19-TEAMID.md` under `./_posts/`. 
+The date in file name does not matter since the post date will be overwritten by the `date` field in front matter of the post.
+Please fill in the name(s) of team members and add the team ID after.
+We should stick to pattern `2022-09-19-teamXX.md` in file name so it would be easier for you to find the post of your team when editing.
 
-3. Check out the [sample posts](https://ucla-rlcourse.github.io/CS269-projects-2022fall/) we provide and the [source code](_posts/2022-10-03-team00-instruction-to-post.md) as well as [basic Markdown syntax](https://www.markdownguide.org/basic-syntax/).
+3. Check out the [sample posts](https://ucla-rlcourse.github.io/CS269-projects-2022fall/) we provide and the [source code](_posts/2022-09-19-team00.md) as well as [basic Markdown syntax](https://www.markdownguide.org/basic-syntax/).
 
-4. Start your work in your .md file. You may only edit the .md file you just copied and renamed, and add images to ```./assets/images/your-teamid```. Please do **NOT** change any other files in this repo.
+4. Start your work in your .md file. You may only edit the .md file you just copied and renamed, and add images to ```./assets/images/TEAMID```. Please do **NOT** change any other files in this repo.
 
 Once you save the .md file, jekyll will synchronize the site and you can check the changes on browser.
 
