@@ -1,5 +1,11 @@
 ## Instruction of using git to manage your projects.
 
+> **Warning**
+>
+> The screenshots here demonstrate the process to fork and pull-request to a repository of previous couse.
+> You should replace the github repo to current repo:  https://github.com/ucla-rlcourse/CS269-projects-2022fall
+
+
 ### Step 1
 
 Fork the project repository to your github account:
