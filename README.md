@@ -1,15 +1,18 @@
-# UCLA CS269 2022 Fall Reinforcement Learning Course Project
+# [UCLA CS269 2022 Fall Reinforcement Learning Course Project](https://ucla-rlcourse.github.io/CS269-projects-2022fall/)
 
 Project page:  https://ucla-rlcourse.github.io/CS269-projects-2022fall/
 
+<!--
 Sign up your team:  https://docs.google.com/spreadsheets/d/14xAMUMvA1FoZiwFnXofpM0UpArc14AglIpnFd_vfBOw/edit?usp=sharing
 
 Potential projects:  https://docs.google.com/spreadsheets/d/17t3KGF5IiDTg9UPWKdpNaSF7jBx4L-4eyrIfeHmTIoU/edit?usp=sharing
 
 Refer to posts by students in last quarter:  https://ucladeepvision.github.io/CS269-projects-2022spring/
-
+-->
 
 ## Instruction for running this site locally
+
+> **Note** You don't have to run this site locally since we only require you to upload the markdown files and relevent figures.
 
 1. Follow the first 2 steps in [pull-request-instruction](pull-request-instruction.md)
 
