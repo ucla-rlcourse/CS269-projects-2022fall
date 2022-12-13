@@ -14,7 +14,10 @@ Refer to posts by students in last quarter:  https://ucladeepvision.github.io/CS
 
 > **Note** You don't have to run this site locally since we only require you to upload the markdown files and relevent figures.
 
-1. Follow the first 2 steps in [pull-request-instruction](pull-request-instruction.md)
+1. Follow the first 2 steps in [pull-request-instruction](pull-request-instruction.md) Remember:
+   * Keep the file name as `2022-09-19.md`, never change the file name even you are updating the file.
+   * Write your team number after your names as `Zhenghao Peng, Bolei Zhou (Team 00)`
+   * Follow the template and remember to add 1) a summary section before the main body, 2) immediately follow a Table of Content section after the summary.
 
 2. Installing Ruby with version 3.0.0 if you are using a Mac, and ruby 2.7 should work for Linux, check https://www.ruby-lang.org/en/documentation/installation/ for instruction.
 
@@ -25,6 +28,7 @@ gem install --user-install bundler jekyll
 bundler install
 bundle add webrick
 ```
+
 
 4. Run your site with
 ```
@@ -54,7 +58,24 @@ We should stick to pattern `2022-09-19-teamXX.md` in file name so it would be ea
 
 Once you save the .md file, jekyll will synchronize the site and you can check the changes on browser.
 
+
 ## Submission
 We will use git pull request to manage submissions.
 
 Once you've done, follow steps 3 and 4 in [pull-request-instruction](pull-request-instruction.md) to make a pull request BEFORE the deadline. Please make sure not to modify any file except your .md file and your images folder. We will merge the request after all submissions are received, and you should able to check your work in the project page on next week of each deadline.
+
+
+## FAQ
+
+Installation at MacOS:
+
+```bash
+brew install ruby
+echo 'export PATH="/opt/homebrew/opt/ruby/bin:$PATH"' >> ~/.zshrc
+
+# Close and restart the terminal
+bundler install
+
+# Now you can run server:
+bundle exec jekyll serve
+```
